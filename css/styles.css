@@ -75,7 +75,10 @@ body {
 .menu-position {
   display: flex;
   gap: 40px;
-  padding: 24px 0 24px;
+  
+}
+.menu-itemi-position{
+padding: 24px 0 24px;
 }
 .adress-main {
   margin-left: auto;
