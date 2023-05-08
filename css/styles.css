@@ -63,21 +63,27 @@ border-bottom: 1px solid #e7e9fc;
 .header-position {
   display: flex;
   align-items: center;
-  padding: 24px 0px 24px 0px;
+ 
   
+}
+.logo-position{
+  margin-right: 76px;
+  align-items: center;
 }
 .nav-position {
   display: flex;
+  align-items: center;
 }
 .menu-position {
   display: flex;
-  column-gap: 40px;
-  margin-left: 76px;
+  gap: 40px;
+  
 }
 .addres-position {
   display: flex;
   margin-left: auto;
   column-gap: 40px;
+  padding: 24px 0 24px
 }
 .hero-section {
   padding-top: 188px;
