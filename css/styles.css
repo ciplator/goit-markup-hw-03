@@ -59,7 +59,9 @@ body {
 .page-header{
 border-bottom: 1px solid #e7e9fc;
 }
-
+.page-header-position{
+  padding: 24px 0 24px;
+}
 .header-position {
   display: flex;
   align-items: center;
@@ -68,7 +70,7 @@ border-bottom: 1px solid #e7e9fc;
 .logo-position{
   margin-right: 76px;
   align-items: center;
-  padding: 24px 0 24px;
+  
 }
 .nav-position {
   display: flex;
@@ -77,16 +79,17 @@ border-bottom: 1px solid #e7e9fc;
 .menu-position {
   display: flex;
   gap: 40px;
-  padding: 24px 0 24px;
+  
   
 }
 .adress-main{
   margin-left: auto;
+
 }
 .addres-position {
   display: flex;
   gap: 40px;
-  padding: 24px 0 24px;
+  
 }
 
 .hero-section {
@@ -242,6 +245,7 @@ border-bottom: 1px solid #e7e9fc;
   color: #404bbf;
 }
 .menu-link {
+  font-weight: 500;
  font-size: 16px;
     text-decoration: none;
     line-height: 1.5;
