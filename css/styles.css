@@ -76,6 +76,10 @@ body {
   margin-left: auto;
   column-gap: 40px;
 }
+.hero-section {
+  padding-top: 188px;
+  padding-bottom: 188px;
+}
 .hero-text-position {
   max-width: 496px;
   margin: auto;
