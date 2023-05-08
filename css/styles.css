@@ -171,6 +171,9 @@ body {
   border: 1px solid #e7e9fc;
   border-radius: 4px;
 }
+.service-resorces{
+  margin-bottom: 8px;
+}
 .service-list {
   display: flex;
   flex-wrap: wrap;
