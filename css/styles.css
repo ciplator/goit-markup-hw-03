@@ -147,7 +147,7 @@ body {
 }
 
 .footer-position {
- padding: 100px 0 100px;
+ 
 }
 .footer-logo{
   display: inline-block;
@@ -306,6 +306,7 @@ body {
 }
 
 .footer {
+padding: 100px 0 100px;
   background-color: #2e2f42;
 }
 
