@@ -137,14 +137,13 @@ border-bottom: 1px solid #e7e9fc;
   margin-top: 72px;
   gap: 24px;
 }
-
+.card-description{
+  padding: 32px 16px;
+}
 .team-name {
-  padding-top: 32px;
   text-align: center;
 }
 .job-place {
-  padding-top: 8px;
-  padding-bottom: 32px;
   text-align: center;
 }
 
