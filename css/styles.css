@@ -158,16 +158,16 @@ body {
   border: 1px solid #e7e9fc;
   border-radius: 4px;
 }
-.service-list{
+.service-list {
   display: flex;
-    flex-wrap: wrap;
-    column-gap: 24px;
-    row-gap: 48px;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
 }
-.service-position{
+.service-position {
   padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
+  border: 1px solid #e7e9fc;
+  border-top: none;
 }
 
 /* </portfolio> */
