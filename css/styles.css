@@ -56,12 +56,15 @@ body {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.page-header{
+border-bottom: 1px solid #e7e9fc;
+}
 
 .header-position {
   display: flex;
   align-items: center;
   padding: 24px 0px 24px 0px;
-  border-bottom: 1px solid #e7e9fc;
+  
 }
 .nav-position {
   display: flex;
@@ -188,14 +191,7 @@ body {
 .logo_studio {
   color: #2e2f42;
 }
-.list {
-  list-style: none;
-}
 
-.link {
-  text-decoration: none;
-  font-style: normal;
-}
 .hero {
   background-color: #2e2f42;
 }
