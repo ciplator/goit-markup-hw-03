@@ -77,7 +77,7 @@ body {
 .menu-position {
   display: flex;
   gap: 40px;
-  padding: 24px 0 24px;
+ 
   
 }
 
@@ -87,6 +87,7 @@ body {
 .addres-position {
   display: flex;
   gap: 40px;
+  padding: 24px 0 24px;
 }
 
 .hero-section {
