@@ -231,7 +231,7 @@ body {
 .hero-button-portfolio:focus {
   background-color: #404bbf;
   color: #ffffff;
-  border: 1px solid;
+  border: 1px solid transparent;
 }
 .menu-link:hover {
   color: #404bbf;
