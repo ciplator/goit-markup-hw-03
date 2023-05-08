@@ -128,10 +128,12 @@ border-bottom: 1px solid #e7e9fc;
 .doing-position {
   margin-bottom: 72px;
 }
+.section-product-position{
+  padding-bottom: 120px;
+}
 .product-position {
   display: flex;
   gap: 24px;
-  padding-bottom: 120px;
   margin-top: 72px;
 }
 
