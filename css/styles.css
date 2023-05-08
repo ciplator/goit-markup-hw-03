@@ -117,7 +117,7 @@ border-bottom: 1px solid #e7e9fc;
 .our-features-position {
   display: flex;
   align-items: center;
-  column-gap: 24px;
+  gap: 24px;
 }
 .information-item {
   width: 264px;
