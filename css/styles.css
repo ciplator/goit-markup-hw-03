@@ -63,7 +63,6 @@ border-bottom: 1px solid #e7e9fc;
 .header-position {
   display: flex;
   align-items: center;
- 
   
 }
 .logo-position{
@@ -83,7 +82,7 @@ border-bottom: 1px solid #e7e9fc;
   display: flex;
   margin-left: auto;
   column-gap: 40px;
-  padding: 24px 0 24px
+  padding: 24px 0 24px;
 }
 .hero-section {
   padding-top: 188px;
