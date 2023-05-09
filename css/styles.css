@@ -127,10 +127,12 @@ body {
 .section-product-position {
   padding-bottom: 120px;
 }
+.doing-position{
+  margin-bottom: 72px;
+}
 .product-position {
   display: flex;
   gap: 24px;
-  margin-top: 72px;
 }
 
 .our-team-position {
